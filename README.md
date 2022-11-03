@@ -1,4 +1,4 @@
-# Sneaker-sentiment-design
+sentiment-design
 
 this is code for the Paper Analysis of sentiment expressions for user-centered design
 https://www.sciencedirect.com/science/article/pii/S0957417421000452
